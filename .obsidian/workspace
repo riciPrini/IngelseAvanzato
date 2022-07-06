@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modal Verbs.md",
-            "mode": "preview"
+            "file": "WORDS.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modal Verbs.md",
+                "file": "WORDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "11d1f118ef5d9cae",
   "lastOpenFiles": [
+    "WORDS.md",
     "Modal Verbs.md",
     "Pasted image 20220705090702.png"
   ]
